@@ -1,77 +1,85 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1503264116251-35a269bd9e0d?auto=format&fit=crop&w=1400&q=80" alt="banner" width="100%" style="max-height:220px;object-fit:cover;border-radius:12px;">
-</p>
-
-<!-- Header + Animated typing -->
-<h1 align="center">Hi there, I'm Khushal Solanki 👋</h1>
+<h1 align="center">👋 Hi, I'm <strong>Khushal Solanki</strong></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushalsolanki001" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00E5FF&center=true&vCenter=true&width=500&lines=Flutter+Developer;C%2FC%2B%2B+Programmer;Java+%7C+Python+%7C+SQL;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <!-- Animated typing text (replace lines= param as you like) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=24&pause=1000&width=600&lines=Flutter+Developer;C/C%2B%2B+enthusiast;Building+clean+and+fast+apps" alt="typing animation"/>
+  <img src="https://komarev.com/ghpvc/?username=khushalsolanki001&label=Profile+Views&color=00eaff&style=flat-square" />
 </p>
 
 ---
 
-## 🔧 Technologies & Skills
+## 🚀 About Me
+
+I'm a passionate developer who loves building apps, solving problems, and exploring new technologies.  
+I focus on **Flutter**, **C/C++**, and backend concepts, aiming to create clean, efficient, and modern applications.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Flutter-00B4FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3476D6?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 📦 Featured Projects
+
+> 🔧 *Tell me your repo names, and I’ll fill these with your real projects!*
 
 <p align="center">
-  <!-- Project "cards" using the repo pin endpoint. Replace repo=... with your repos -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=example-flutter-app&theme=radical" alt="project1" height="140" style="margin:6px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=example-cpp-dsa&theme=radical" alt="project2" height="140" style="margin:6px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=example-python-tool&theme=radical" alt="project3" height="140" style="margin:6px"/>
-</p>
 
-> Replace `repo=` values with your actual repo names to display real project cards.
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=project-one&theme=tokyonight&hide_border=true" />
+</a>
 
----
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=project-two&theme=tokyonight&hide_border=true" />
+</a>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushalsolanki001&show_icons=true&count_private=true&theme=radical" alt="Khushal's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsolanki001&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Flutter UI & state management  
-- Data structures & algorithms (C/C++)  
-- Backend integration & REST APIs
-
----
-
-## 🤝 Connect with me
+## 📊 GitHub Insights
 
 <p align="center">
-  <a href="https://x.com/tecnogame1234"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="x" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=khushalsolanki001&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsolanki001&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
 </p>
 
 ---
 
-#### 🎯 Fun fact
-I love building small tools and experimenting with performance optimizations.
+## 🌱 Learning & Improving
+
+- Advanced Flutter UI & Animations  
+- State Management (Provider / Riverpod)  
+- Data Structures & Algorithms  
+- REST APIs & backend logic  
+- Writing cleaner, scalable code  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://x.com/tecnogame1234">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎯 Fun Fact  
+I love building small tools, experimenting with code, and improving a little bit every day.
 
