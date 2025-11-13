@@ -30,7 +30,6 @@ I'm a software developer with a focus on mobile apps, Web3, and AI. Experienced 
   <img height="30" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-
 ---
 
 ## 📌 Featured Projects
@@ -41,17 +40,21 @@ I'm a software developer with a focus on mobile apps, Web3, and AI. Experienced 
   <a href="https://github.com/khushalsolanki001/Fine-Tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=Fine-Tracker&theme=transparent&hide_border=true" alt="Fine Tracker" />
   </a>
+  <a href="https://github.com/khushalsolanki001/E-FARM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=E-FARM&theme=transparent&hide_border=true" alt="E-FARM" />
+  </a>
 </p>
 
 - **My Skill Sohel** – A skill showcase app built with React, TypeScript, Vite, Tailwind CSS, and shadcn/ui.  
   [Live Demo](https://my-skill-sohel.vercel.app/)
 - **Fine Tracker** – Offline-first expense tracker in Flutter with multi-account support, currency conversion, CSV exports, and backups.
+- **E-FARM** – PHP-based agricultural marketplace with user registration, item listings/search, contact forms, and Solana Devnet payment integration using wallet connect.
 
 ---
 
 ## 🔗 Blockchain & Web3 Experience
 - **Solidity Smart Contracts**  
-  → Developed contracts on Base Sepolia.  
+  → Developed contracts on Base Sepolia using Remix IDE for guild tasks and NFT claiming.  
   → Built ERC20 token systems with weighted voting, error handling, and OpenZeppelin integrations.
 - **Ink Chain (Kraken L2)**  
   → Early contributor; developed NFTs and smart contracts on the network.
