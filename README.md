@@ -14,7 +14,7 @@
 
 I am a dedicated software developer with a strong interest in building efficient, reliable, and scalable applications.  
 My primary focus is mobile development using **Flutter**, combined with a solid foundation in **C/C++**, **Java**, **Python**, and **SQL**.  
-I enjoy exploring system fundamentals, improving problem-solving skills, and staying updated with modern development practices.
+I enjoy exploring core programming concepts, improving problem-solving skills, and working with modern development tools.
 
 ---
 
@@ -33,15 +33,18 @@ I enjoy exploring system fundamentals, improving problem-solving skills, and sta
 
 ## Featured Projects
 
-> Share your repository names and I will replace the placeholders with your real projects.
-
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=project-one&theme=transparent&hide_border=true" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=project-two&theme=transparent&hide_border=true" />
-  </a>
+
+<!-- Project 1 -->
+<a href="https://github.com/khushalsolanki001/Gensyn-codeassist-guide">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=Gensyn-codeassist-guide&theme=transparent&hide_border=true" />
+</a>
+
+<!-- Project 2 -->
+<a href="https://github.com/khushalsolanki001/Fine-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=Fine-Tracker&theme=transparent&hide_border=true" />
+</a>
+
 </p>
 
 ---
@@ -58,10 +61,10 @@ I enjoy exploring system fundamentals, improving problem-solving skills, and sta
 ## Currently Learning
 
 - Advanced Flutter architecture & state management  
-- Data structures, algorithms & system-level concepts  
-- API integration and backend fundamentals  
-- Writing maintainable and scalable code  
+- Data structures & algorithms  
+- API design & backend fundamentals  
 - Clean architecture principles  
+- Writing scalable, maintainable, and testable code  
 
 ---
 
@@ -76,5 +79,4 @@ I enjoy exploring system fundamentals, improving problem-solving skills, and sta
 ---
 
 ### Additional Information  
-I enjoy creating small utilities, experimenting with new technologies, and continuously improving my development skills.
-
+I enjoy creating practical tools, exploring new technologies, and continuously sharpening my development skills.
