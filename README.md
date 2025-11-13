@@ -1,57 +1,80 @@
-# Hi, I’m Khushal Solanki 👋
+<h1 align="center"><strong>Khushal Solanki</strong></h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=khushalsolanki001&label=Profile%20views&color=0e75b6&style=flat-square)
-
-## 🎯 About Me  
-An ambitious software developer focused on delivering high-quality solutions.  
-With expertise in Flutter, C, C++, Java, Python and SQL, I strive to build maintainable and scalable applications and write clean, efficient code.
-
-## 🛠 Core Skills  
-- **Mobile**: Flutter  
-- **Backend/System**: C / C++ / Java / Python / SQL  
-- **Tools & Practices**: Version Control (Git), Code Quality, Testing, Agile workflow  
-
-## ⚙️ Technologies & Tools  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />  
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2000&pause=800&color=40CFFF&center=true&vCenter=true&width=460&lines=Software+Developer;Flutter+%7C+C%2B%2B+%7C+Java+%7C+Python;Building+Reliable+and+Modern+Software" />
 </p>
 
-## 🚀 Featured Projects  
-Below are some of the key projects I’ve worked on.  
-<p align="center">  
-  <a href="https://github.com/khushalsolanki001/PROJECT-REPO-1">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=PROJECT-REPO-1&theme=github_dark&hide_border=true" />  
-  </a>  
-  <a href="https://github.com/khushalsolanki001/PROJECT-REPO-2">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=PROJECT-REPO-2&theme=github_dark&hide_border=true" />  
-  </a>  
-  <a href="https://github.com/khushalsolanki001/PROJECT-REPO-3">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=PROJECT-REPO-3&theme=github_dark&hide_border=true" />  
-  </a>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khushalsolanki001&label=Profile+Views&color=1f6feb&style=flat-square" />
 </p>
-
-## 📈 My GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=khushalsolanki001&show_icons=true&theme=github_dark&hide_border=true" height="160" />  
-</p>  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsolanki001&layout=compact&theme=github_dark&hide_border=true" height="160" />  
-</p>
-
-## 📌 Currently Learning  
-- Advanced Flutter architectural patterns (BLoC, Riverpod)  
-- Performance optimization with C++ & memory management  
-- Robust backend services and SQL schema design  
-- CI/CD automation and DevOps practices  
-
-## 📫 Connect with Me  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tecnogame1234)
 
 ---
 
-*Thank you for visiting my profile. Let’s build something great together!*  
+## About Me
+
+I am a dedicated software developer with a strong interest in building efficient, reliable, and scalable applications.  
+My primary focus is mobile development using **Flutter**, combined with a solid foundation in **C/C++**, **Java**, **Python**, and **SQL**.  
+I enjoy exploring system fundamentals, improving problem-solving skills, and staying updated with modern development practices.
+
+---
+
+## Technical Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+> Share your repository names and I will replace the placeholders with your real projects.
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=project-one&theme=transparent&hide_border=true" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=project-two&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## GitHub Insights
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=khushalsolanki001&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsolanki001&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Currently Learning
+
+- Advanced Flutter architecture & state management  
+- Data structures, algorithms & system-level concepts  
+- API integration and backend fundamentals  
+- Writing maintainable and scalable code  
+- Clean architecture principles  
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://x.com/tecnogame1234">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### Additional Information  
+I enjoy creating small utilities, experimenting with new technologies, and continuously improving my development skills.
+
