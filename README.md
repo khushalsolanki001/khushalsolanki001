@@ -17,19 +17,19 @@ I'm a software developer with a focus on mobile apps, Web3, and AI. Experienced 
 
 ## 🛠️ Technical Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Solidity-3C3C3D?style=flat&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=white" alt="Solana" />
-  <img src="https://img.shields.io/badge/Base-0052FF?style=flat&logo=base&logoColor=white" alt="Base" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img height="30" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Solidity-3C3C3D?style=flat&logo=solidity&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Base-0052FF?style=flat&logo=base&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
+
 
 ---
 
