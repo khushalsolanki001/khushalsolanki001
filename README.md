@@ -13,8 +13,8 @@
 ## About Me
 
 I am a dedicated software developer with a strong interest in building efficient, reliable, and scalable applications.  
-My primary focus is mobile development using **Flutter**, combined with a solid foundation in **C/C++**, **Java**, **Python**, and **SQL**.  
-I enjoy exploring core programming concepts, improving problem-solving skills, and working with modern development tools.
+My primary focus is mobile development using **Flutter**, supported by a solid foundation in **C/C++**, **Java**, **Python**, and **SQL**.  
+I enjoy exploring system fundamentals, sharpening my problem-solving skills, and working with modern development tools.
 
 ---
 
@@ -35,12 +35,10 @@ I enjoy exploring core programming concepts, improving problem-solving skills, a
 
 <p align="center">
 
-<!-- Project 1 -->
 <a href="https://github.com/khushalsolanki001/Gensyn-codeassist-guide">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=Gensyn-codeassist-guide&theme=transparent&hide_border=true" />
 </a>
 
-<!-- Project 2 -->
 <a href="https://github.com/khushalsolanki001/Fine-Tracker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=Fine-Tracker&theme=transparent&hide_border=true" />
 </a>
@@ -62,15 +60,21 @@ I enjoy exploring core programming concepts, improving problem-solving skills, a
 
 - Advanced Flutter architecture & state management  
 - Data structures & algorithms  
-- API design & backend fundamentals  
-- Clean architecture principles  
-- Writing scalable, maintainable, and testable code  
+- Backend development fundamentals  
+- API integration and clean architecture  
+- Writing scalable and maintainable code  
 
 ---
 
 ## Connect With Me
 
 <p align="center">
+  <a href="https://zkverify.in">
+    <img src="https://img.shields.io/badge/Website-1f6feb?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:khushalsolanki2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://x.com/tecnogame1234">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
@@ -79,4 +83,4 @@ I enjoy exploring core programming concepts, improving problem-solving skills, a
 ---
 
 ### Additional Information  
-I enjoy creating practical tools, exploring new technologies, and continuously sharpening my development skills.
+I enjoy creating practical tools, exploring new technologies, and continuously improving my development skills.
