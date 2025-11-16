@@ -11,7 +11,7 @@
 ---
 
 ## 👋 About Me
-I'm a software developer with a focus on mobile apps, Web3, and AI. Experienced in building Flutter apps, integrating blockchain payments, and contributing to decentralized AI networks like Gensyn. I enjoy experimenting with emerging tech, from smart contracts to distributed model training, while continuously improving my skills.
+I'm a software developer with a focus on mobile apps, Web3, and AI. Experienced in building Flutter apps, integrating blockchain payments, and contributing to decentralized AI networks like Gensyn. I enjoy experimenting with emerging tech, from smart contracts to distributed model training, while continuously improving my skills
 
 ---
 
