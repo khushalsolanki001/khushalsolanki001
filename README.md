@@ -71,7 +71,7 @@ I'm a software developer with a focus on mobile apps, Web3, and AI. Experienced 
 
 ## 📊 GitHub Insights
 <p align="center">
-  
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khushalsolanki001&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsolanki001&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
