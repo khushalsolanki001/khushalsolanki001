@@ -65,7 +65,7 @@ I'm a software developer with a focus on mobile apps, Web3, and AI. Experienced 
 - **VPS & Infrastructure**  
   → Deployed and managed Node.js apps on Ubuntu VPS via AWS and Google Cloud, using Docker.
 - **Blockchain Testing**  
-  → Tested protocols on Solana Devnet, 0G, and Ink Chain.
+  → Tested protocols on Solana Devnet, 0G, and Ink Chain..
 
 ---
 
