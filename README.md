@@ -1,4 +1,5 @@
 <div align="center">
+
 <picture>
   <source
     srcset="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:C7154A%2C100:F85D7F&text=Hey%20👋%20I'm%20Khushal!&section=header&reversal=false&fontSize=28&textBg=false&fontColor=fefefe&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50"
@@ -7,23 +8,37 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1E90FF,100:40CFFF&text=Hey%20👋%20I'm%20Khushal!&section=header&reversal=false&fontSize=28&textBg=false&fontColor=1F2328&animation=fadeIn&fontAlignY=70&fontAlign=50&descAlign=50" />
 </picture>
 
-[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=40CFFF&center=true&vCenter=true&width=520&height=32&lines=💻+Software+Developer;🚀+Flutter+%7C+Web3+%7C+AI+%7C+Blockchain;🌱+Building+Scalable+Decentralized+Apps)](https://git.io/typing-svg/#gh-dark-mode-only)
-[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=1E90FF&center=true&vCenter=true&width=520&height=32&lines=💻+Software+Developer;🚀+Flutter+%7C+Web3+%7C+AI+%7C+Blockchain;🌱+Building+Scalable+Decentralized+Apps)](https://git.io/typing-svg/#gh-light-mode-only)
+<br/><br/>
 
-[<img src="https://img.shields.io/badge/@tecnogame1234-000000?style=flat&logo=x&logoColor=white" alt="X" height="30">](https://x.com/tecnogame1234)
-[<img src="https://img.shields.io/badge/khushalsolanki2022@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30">](mailto:khushalsolanki2022@gmail.com)
-[<img src="https://img.shields.io/badge/Website-40CFFF?style=flat&logo=google-chrome&logoColor=white" alt="Website" height="30">](https://zkverify.in)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">](https://www.linkedin.com/in/khushal-solanki-2310a5304/)
+[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=26&duration=2800&pause=1800&color=40CFFF&center=true&vCenter=true&width=580&height=40&lines=Software+Developer;Flutter+%7C+Web3+%7C+AI+%7C+Blockchain;Building+Scalable+%26+Decentralized+Future)](https://git.io/typing-svg/#gh-dark-mode-only)
+[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=26&duration=2800&pause=1800&color=1E90FF&center=true&vCenter=true&width=580&height=40&lines=Software+Developer;Flutter+%7C+Web3+%7C+AI+%7C+Blockchain;Building+Scalable+%26+Decentralized+Future)](https://git.io/typing-svg/#gh-light-mode-only)
 
+<br/><br/>
+
+[<img src="https://img.shields.io/badge/@tecnogame1234-000000?style=flat&logo=x&logoColor=white" alt="X" height="32">](https://x.com/tecnogame1234)
+[<img src="https://img.shields.io/badge/khushalsolanki2022@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="32">](mailto:khushalsolanki2022@gmail.com)
+[<img src="https://img.shields.io/badge/Website-40CFFF?style=flat&logo=google-chrome&logoColor=white" alt="Website" height="32">](https://zkverify.in)
+
+<br/><br/><br/>
+
+<!-- Skill icons: removed missing solana/ethereum, bigger size, one line fit -->
 <a href="https://skillicons.dev/#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,solidity,solana,ethereum,aws,docker,git,linux,vscode&perline=7" height="48" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,aws,docker,git,linux,vscode&perline=12" height="72" />
 </a>
+
 <a href="https://skillicons.dev/#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,solidity,solana,ethereum,aws,docker,git,linux,vscode&theme=light&perline=7" height="48" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,aws,docker,git,linux,vscode&theme=light&perline=12" height="72" />
 </a>
+
+<br/>
+
+<!-- Custom badges for missing Solana & Ethereum -->
+<img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" height="48" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="48" />
+
+<br/><br/><br/>
 
 <div>
-  <br/>
 <picture>
   <source
     srcset="https://github-readme-stats-gamma-lilac.vercel.app/api?username=khushalsolanki001&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=40CFFF&icon_color=1E90FF"
@@ -44,56 +59,58 @@
 </picture>
 </div>
 
-<br/>
+<br/><br/>
 
-<!-- Detailed content without repetitions -->
+---
 
-<h2>👋 About Me</h2>
-<p align="center">
-  I'm a software developer with a focus on mobile apps, Web3, and AI. Experienced in building Flutter apps, integrating blockchain payments, and contributing to decentralized AI networks like Gensyn. I enjoy experimenting with emerging tech, from smart contracts to distributed model training, while continuously improving my skills.
-</p>
+### 👋 About Me
+I'm a passionate software developer focused on **mobile apps**, **Web3**, **AI**, and **blockchain**.  
+I build production-ready Flutter applications, integrate decentralized payments, and actively contribute to decentralized AI networks like **Gensyn**.  
+Always exploring cutting-edge tech — smart contracts, distributed training, and beyond.
 
-<h2>📌 Featured Projects</h2>
+---
 
-- **My Skill Sohel** – A skill showcase app built with React, TypeScript, Vite, Tailwind CSS, and shadcn/ui.  
-  [Live Demo](https://my-skill-sohel.vercel.app/) | [GitHub](https://github.com/khushalsolanki001/my-skill-sohel)
+### 📌 Featured Projects
 
-- **Fine Tracker** – Offline-first expense tracker in Flutter with multi-account support, currency conversion, CSV exports, and backups.  
+- **My Skill Sohel**  
+  Modern skill showcase built with React, TypeScript, Vite, Tailwind CSS & shadcn/ui  
+  [Live Demo](https://my-skill-sohel.vercel.app/) • [GitHub](https://github.com/khushalsolanki001/my-skill-sohel)
+
+- **Fine Tracker**  
+  Offline-first Flutter expense tracker with multi-account, currency conversion, CSV export & backups  
   [GitHub](https://github.com/khushalsolanki001/Fine-Tracker)
 
-- **E-FARM** – PHP-based agricultural marketplace with user registration, item listings/search, contact forms, and Solana Devnet payment integration using wallet connect.  
+- **E-FARM**  
+  Agricultural marketplace with Solana Devnet payments via WalletConnect  
   [GitHub](https://github.com/khushalsolanki001/E-FARM)
 
-<h2>🔗 Blockchain & Web3 Experience</h2>
-- **Solidity Smart Contracts**  
-  → Developed contracts on Base Sepolia using Remix IDE for guild tasks and NFT claiming.  
-  → Built ERC20 token systems with weighted voting, error handling, and OpenZeppelin integrations.
+---
 
-- **Ink Chain (Kraken L2)**  
-  → Early contributor; developed NFTs and smart contracts on the network.
+### 🔗 Blockchain & Web3 Experience
 
-- **Solana Integration**  
-  → Used Solana Devnet for projects, integrating Solana as a payment method with wallet connections.
+- **Solidity Smart Contracts** — Base Sepolia (NFTs, ERC20 with OpenZeppelin)  
+- **Ink Chain (Kraken L2)** — Early contributor (NFTs & contracts)  
+- **Solana** — Devnet payment integration & wallet connect  
+- **Gensyn AI** — Model training with RL-Swarm, Block Assist & Code Assist  
+- **Infrastructure** — Node.js + Docker on Ubuntu VPS (AWS / Google Cloud)  
+- **Testing** — Protocols on Solana Devnet, 0G, Ink Chain
 
-- **Gensyn AI Contributor**  
-  → Trained models using RL-Swarm, Block Assist, and Code Assist on decentralized networks.
+---
 
-- **VPS & Infrastructure**  
-  → Deployed and managed Node.js apps on Ubuntu VPS via AWS and Google Cloud, using Docker.
+### 📚 Currently Learning
 
-- **Blockchain Testing**  
-  → Tested protocols on Solana Devnet, 0G, and Ink Chain.
+- Advanced Flutter (Clean Architecture, Riverpod/Bloc)  
+- Data Structures & Algorithms  
+- Node.js backend & APIs  
+- Smart contract security & best practices
 
-<h2>📚 Currently Learning</h2>
-- Advanced Flutter architecture and state management
-- Data structures and algorithms
-- Backend development with Node.js and APIs
-- Smart contract security and best practices
+---
 
-### 🌟 Additional Information
-Contributor to Gensyn AI and Ink on Chain. Open to collaborations in Web3, AI, and software development.
+### 🌟 Open to Collaboration
+Contributor to **Gensyn AI** & **Ink on Chain**  
+Always excited to work on innovative Web3 × AI × Mobile projects.
 
-<!-- Footer with direct email -->
+<!-- Footer -->
 <picture>
   <source
     srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:C7154A%2C100:F85D7F&section=footer&desc=Reach%20out%20%E2%80%93%20I'm%20just%20an%20email%20away%20📩%20khushalsolanki2022@gmail.com&descSize=14&fontColor=efefef&descAlignY=54&animation=fadeIn&descAlign=50"
