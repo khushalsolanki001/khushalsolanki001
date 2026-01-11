@@ -10,8 +10,8 @@
 
 <br/><br/>
 
-[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=26&duration=2800&pause=1800&color=40CFFF&center=true&vCenter=true&width=580&height=40&lines=Software+Developer;Flutter+%7C+Web3+%7C+AI+%7C+Blockchain;Building+Scalable+%26+Decentralized+Future)](https://git.io/typing-svg/#gh-dark-mode-only)
-[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=26&duration=2800&pause=1800&color=1E90FF&center=true&vCenter=true&width=580&height=40&lines=Software+Developer;Flutter+%7C+Web3+%7C+AI+%7C+Blockchain;Building+Scalable+%26+Decentralized+Future)](https://git.io/typing-svg/#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=26&duration=2800&pause=1800&color=40CFFF&center=true&vCenter=true&width=580&height=40&lines=Software+Developer;Flutter+%7C+Web3+%7C+AI+%7C+Blockchain;Building+Scalable+%26+Decentralized+Future)](https://git.io/typing-svg/#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=26&duration=2800&pause=1800&color=1E90FF&center=true&vCenter=true&width=580&height=40&lines=Software+Developer;Flutter+%7C+Web3+%7C+AI+%7C+Blockchain;Building+Scalable+%26+Decentralized+Future)](https://git.io/typing-svg/#gh-light-mode-only)
 
 <br/><br/>
 
@@ -19,20 +19,21 @@
 [<img src="https://img.shields.io/badge/khushalsolanki2022@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="32">](mailto:khushalsolanki2022@gmail.com)
 [<img src="https://img.shields.io/badge/Website-40CFFF?style=flat&logo=google-chrome&logoColor=white" alt="Website" height="32">](https://zkverify.in)
 
-<br/><br/><br/>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=khushalsolanki001&label=Profile%20Views&color=40CFFF&style=flat-square" alt="Profile Views" />
 
-<!-- Skill icons: removed missing solana/ethereum, bigger size, one line fit -->
+
+<!-- Skill Icons -->
 <a href="https://skillicons.dev/#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,aws,gcp,docker,git,linux,vscode&perline=12" height="72" />
 </a>
-
 <a href="https://skillicons.dev/#gh-light-mode-only">
   <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,aws,gcp,docker,git,linux,vscode&theme=light&perline=12" height="72" />
 </a>
 
 <br/>
 
-<!-- Custom badges for missing Solana & Ethereum -->
+<!-- Solana & Ethereum custom badges -->
 <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" height="48" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="48" />
 
