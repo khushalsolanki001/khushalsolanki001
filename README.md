@@ -23,11 +23,11 @@
 
 <!-- Skill icons: removed missing solana/ethereum, bigger size, one line fit -->
 <a href="https://skillicons.dev/#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,aws,docker,git,linux,vscode&perline=12" height="72" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,aws,gcp,docker,git,linux,vscode&perline=12" height="72" />
 </a>
 
 <a href="https://skillicons.dev/#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,aws,docker,git,linux,vscode&theme=light&perline=12" height="72" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,python,java,cpp,aws,gcp,docker,git,linux,vscode&theme=light&perline=12" height="72" />
 </a>
 
 <br/>
