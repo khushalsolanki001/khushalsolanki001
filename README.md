@@ -103,7 +103,7 @@ Always exploring cutting-edge tech — smart contracts, distributed training, an
 - Advanced Flutter (Clean Architecture, Riverpod/Bloc)  
 - Data Structures & Algorithms  
 - Node.js backend & APIs  
-- Smart contract security & best practices
+- Smart contract security & best practices.
 
 ---
 
