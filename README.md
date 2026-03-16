@@ -105,7 +105,7 @@ Always exploring cutting-edge tech — smart contracts, distributed training, an
 ---
 ### 🌟 Open to Collaboration
 Contributor to **Gensyn AI** & **Ink on Chain**  
-Always excited to work on innovative Web3 × AI × Mobile projects.
+Always excited to work on innovative Web3 × AI × Mobile projects
 
 <!-- Footer -->
 <picture>
