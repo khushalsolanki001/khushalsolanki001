@@ -95,7 +95,7 @@ Always exploring cutting-edge tech — smart contracts, distributed training, an
 - **Solana** — Devnet payment integration & wallet connect
 - **Gensyn AI** — Model training with RL-Swarm, Block Assist & Code Assist
 - **Infrastructure** — Node.js + Docker on Ubuntu VPS (AWS / Google Cloud)
-- **Testing** — Protocols on Solana Devnet, 0G, Ink Chain ,Sui.
+- **Testing** — Protocols on Solana Devnet, 0G, Ink Chain ,Sui
 ---
 ### 📚 Currently Learning
 - Advanced Flutter (Clean Architecture, Riverpod/Bloc)
