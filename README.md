@@ -1,65 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0a1e,50:7c3aed,100:a78bfa&text=KHUSHAL%20SOLANKI&fontSize=38&fontColor=ffffff&fontAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:111827,100:312e81&text=Khushal%20Solanki&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/khushalsolanki001">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=software+developer;building+apps+%26+games;flutter+%2B+web+%2B+AI;solo+indie+dev+%40+Volphy+Studio" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=32&lines=Web+Developer;Web3+Developer;Building+apps%2C+games+%26+on-chain+experiments" alt="Typing intro" />
 
-<br/>
-
-<a href="https://github.com/khushalsolanki001"><img src="https://img.shields.io/badge/GitHub-0f0a1e?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://volphystudio.online"><img src="https://img.shields.io/badge/Volphy%20Studio-7c3aed?style=flat-square&logoColor=white"/></a>
-<a href="mailto:khushalsolanki2022@gmail.com"><img src="https://img.shields.io/badge/contact-a78bfa?style=flat-square&logo=gmail&logoColor=0f0a1e"/></a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nextjs,tailwind,python,supabase,sqlite,nodejs,git,docker,linux,unity,godot&perline=8" />
-
-<br/><br/>
+<p>
+  <a href="https://volphystudio.online">Volphy Studio</a> ·
+  <a href="https://github.com/khushalsolanki001">Projects</a> ·
+  <a href="mailto:khushalsolanki2022@gmail.com">Contact</a>
+</p>
 
 </div>
 
 ---
 
-### projects
+I build **web apps, mobile apps, games, and Web3 projects** — with a focus on useful products and clean user experiences.
 
-**[CHILLGPT EMPIRE](https://github.com/khushalsolanki001/CHILLGPT-EMPIRE)**  
-AI startup tycoon game · Phaser · JavaScript  
-**#2 Ethereum Challenge · #4 Build with Phaser**
+### What I work with
 
-**OpenKhata**  
-Offline-first GST billing & accounting · Flutter · Supabase · Drift
+**Web** · React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+**App development** · Flutter, Dart, Supabase, SQLite  
+**Web3** · Ethereum, smart-contract / on-chain experiments  
+**Game development** · Phaser, Godot  
+**Tools** · Git, Node.js, Python
 
-**[Fine Tracker](https://github.com/khushalsolanki001/Fine-Tracker)**  
-Offline-first finance app · Flutter · Dart
+### Selected work
 
-**[My Skill Sohel](https://github.com/khushalsolanki001/my-skill-sohel)**  
-React · TypeScript · Vite · Tailwind
+- **[CHILLGPT EMPIRE](https://github.com/khushalsolanki001/CHILLGPT-EMPIRE)** — AI startup tycoon game built with Phaser. *#2 Ethereum Challenge · #4 Build with Phaser Challenge*
+- **OpenKhata** — Offline-first GST billing and accounting app built with Flutter, Supabase, and Drift.
+- **[Fine Tracker](https://github.com/khushalsolanki001/Fine-Tracker)** — Offline-first expense tracker.
+- **[My Skill Sohel](https://github.com/khushalsolanki001/my-skill-sohel)** — React + TypeScript web project.
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khushalsolanki001&show_icons=true&hide_border=true&theme=transparent&title_color=a78bfa&icon_color=7c3aed&text_color=9ca3af&rank_icon=github" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsolanki001&layout=compact&hide_border=true&theme=transparent&title_color=a78bfa&text_color=9ca3af&langs_count=6" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalsolanki001&bg_color=0f0a1e&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br/>
+---
 
 <div align="center">
-
-<sub>building quietly. shipping often.</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=khushalsolanki001&label=&color=7c3aed&style=flat-square"/>
-
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart,solidity,ethereum,supabase,sqlite,python,phaser,godot,git&perline=8" alt="Technologies" />
+  <br/><br/>
+  <sub>Building independently at <a href="https://volphystudio.online">Volphy Studio</a>.</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7c3aed,100:0f0a1e&section=footer" width="100%"/>
