@@ -1,40 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:111827,100:312e81&text=Khushal%20Solanki&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=KHUSHAL%20SOLANKI&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20SHIP&descAlignY=58&descSize=14&animation=twinkling&color=0:0f0a1e,35:4c1d95,70:7c3aed,100:ff7a00" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=32&lines=Web+Developer;Web3+Developer;Building+apps%2C+games+%26+on-chain+experiments" alt="Typing intro" />
+<a href="https://volphy.vercel.app/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=2200&pause=650&color=FF8A3D&center=true&vCenter=true&repeat=true&width=720&height=42&lines=WEB+DEVELOPER+%2F%2F+WEB3+BUILDER;FLUTTER+%2F%2F+GAMES+%2F%2F+ON-CHAIN;INDEPENDENTLY+BUILDING+AT+VOLPHY+STUDIO" alt="Animated roles" />
+</a>
 
 <p>
-  <a href="https://volphystudio.online">Volphy Studio</a> ·
-  <a href="https://github.com/khushalsolanki001">Projects</a> ·
-  <a href="mailto:khushalsolanki2022@gmail.com">Contact</a>
+  <a href="https://volphy.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/khushalsolanki001"><img src="https://img.shields.io/badge/GITHUB-171321?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:khushalsolanki2022@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-FF7A00?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=khushalsolanki001&style=flat&color=7c3aed&label=PROFILE+VISITORS" alt="Profile views"/>
 
 </div>
 
 ---
 
-I build **web apps, mobile apps, games, and Web3 projects** — with a focus on useful products and clean user experiences.
+## whoami
 
-### What I work with
+I’m **Khushal** — an independent developer building across the web, mobile, games, and Web3. I like turning ambitious ideas into real, shippable products.
 
-**Web** · React, Next.js, TypeScript, JavaScript, Tailwind CSS  
-**App development** · Flutter, Dart, Supabase, SQLite  
-**Web3** · Ethereum, smart-contract / on-chain experiments  
-**Game development** · Phaser, Godot  
-**Tools** · Git, Node.js, Python
+- **Currently building:** products and experiments at [Volphy Studio](https://volphy.vercel.app/)
+- **I build:** web apps · Flutter apps · games · Web3 experiences
+- **Game jam:** #2 Ethereum Challenge · #4 Build with Phaser Challenge
 
-### Selected work
-
-- **[CHILLGPT EMPIRE](https://github.com/khushalsolanki001/CHILLGPT-EMPIRE)** — AI startup tycoon game built with Phaser. *#2 Ethereum Challenge · #4 Build with Phaser Challenge*
-- **OpenKhata** — Offline-first GST billing and accounting app built with Flutter, Supabase, and Drift.
-- **[Fine Tracker](https://github.com/khushalsolanki001/Fine-Tracker)** — Offline-first expense tracker.
-- **[My Skill Sohel](https://github.com/khushalsolanki001/my-skill-sohel)** — React + TypeScript web project.
-
----
+## featured_work
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart,solidity,ethereum,supabase,sqlite,python,phaser,godot,git&perline=8" alt="Technologies" />
-  <br/><br/>
-  <sub>Building independently at <a href="https://volphystudio.online">Volphy Studio</a>.</sub>
+
+<a href="https://github.com/khushalsolanki001/CHILLGPT-EMPIRE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=CHILLGPT-EMPIRE&theme=midnight-purple&hide_border=true&bg_color=0f0a1e&title_color=ff8a3d&icon_color=a78bfa&text_color=e9e3f5" alt="CHILLGPT EMPIRE repository card"/>
+</a>
+<a href="https://github.com/khushalsolanki001/Fine-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khushalsolanki001&repo=Fine-Tracker&theme=midnight-purple&hide_border=true&bg_color=0f0a1e&title_color=ff8a3d&icon_color=a78bfa&text_color=e9e3f5" alt="Fine Tracker repository card"/>
+</a>
+
+</div>
+
+| Project | What it does |
+|:--|:--|
+| **[CHILLGPT EMPIRE](https://github.com/khushalsolanki001/CHILLGPT-EMPIRE)** | AI startup tycoon game · Phaser · Ethereum game-jam project |
+| **OpenKhata** | Offline-first GST billing & accounting · Flutter · Supabase · Drift |
+| **[Fine Tracker](https://github.com/khushalsolanki001/Fine-Tracker)** | Offline-first expense tracker |
+| **[My Skill Sohel](https://github.com/khushalsolanki001/my-skill-sohel)** | React · TypeScript · Vite · Tailwind |
+
+## tech_stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,flutter,dart,supabase,sqlite,python,solidity,ethereum,git,docker,godot&perline=8&theme=dark" alt="Tech stack icons"/>
+
+</div>
+
+## activity.log
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=khushalsolanki001&show_icons=true&hide_border=true&rank_icon=github&bg_color=0f0a1e&title_color=a78bfa&icon_color=ff8a3d&text_color=e9e3f5" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalsolanki001&layout=compact&hide_border=true&langs_count=6&bg_color=0f0a1e&title_color=a78bfa&text_color=e9e3f5" alt="Top languages"/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=khushalsolanki001&bg_color=0f0a1e&color=e9e3f5&line=ff7a00&point=a78bfa&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="Contribution activity graph"/>
+
+</div>
+
+<div align="center">
+
+### BUILD SOMETHING THAT MATTERS.
+
+<a href="https://volphy.vercel.app/"><img src="https://img.shields.io/badge/ENTER_VOLPHY_STUDIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Volphy Studio"/></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff7a00,50:7c3aed,100:0f0a1e" />
+
 </div>
