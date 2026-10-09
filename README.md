@@ -81,10 +81,8 @@ REACT · TYPESCRIPT · TAILWIND
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalsolanki001&bg_color=0b0714&color=d8c9f5&line=ff7a00&point=a78bfa&area=true&hide_border=true&custom_title=CONTRIBUTIONS" width="100%" alt="GitHub contribution graph"/>
-
 <p><sub>Made with curiosity. Built at my own pace.</sub></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:ff7a00,50:7c3aed,100:0b0714" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&section=footer&color=0:7c3aed,55:a78bfa,100:ff7a00" width="100%" alt="" />
 
 </div>
